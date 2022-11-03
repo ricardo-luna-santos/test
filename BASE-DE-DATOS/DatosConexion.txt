@@ -1,0 +1,6 @@
+Los datos utilizados para la conexion son: 
+usuario="superadmin"
+contrasena="1@2b3C4d"
+servidor="localhost";
+puerto="3307";
+Nombre de la base de datos="test";
